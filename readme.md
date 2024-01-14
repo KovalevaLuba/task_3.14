@@ -5,11 +5,11 @@ LICENSE: [MIT](license.md)
 ---
 
 ### Содержание:
-1. [Введение](intro.md)
-2. Начало работы
-3. Создание локального репозитория
-4. Основные команды
-5. Заключение
+* [Введение](./intro.md)
+* [Начало работы](./beginning.md)
+* [Создание локального репозитория](local_repository.md)
+* [Основные операции](general_operations.md)
+* [Заключение](ending.md)
 ---
 ![git-logo](./assets/git-logo.svg.png)
 
